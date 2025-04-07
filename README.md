@@ -1,2 +1,3 @@
-# meu-projeto-html
-primeira atividade de desenvolvimento web.
+# Primeira atividade Desenvolvimento web
+Rafael Bernardi, aluno de Ciência da Computação IFSC.
+
